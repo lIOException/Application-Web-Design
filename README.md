@@ -1,5 +1,5 @@
 # Application-Web-Design
-\nLeonardo David Arias Ruiz
-\n2978690
-\nIngenieria en Desarrollo de Software
-\n6to Semestre
+Leonardo David Arias Ruiz
+2978690
+Ingenieria en Desarrollo de Software
+6to Semestre
