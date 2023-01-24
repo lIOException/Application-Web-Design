@@ -1,10 +1,10 @@
 # Application-Web-Design
 
 ##Actividad 1
-Leonardo David Arias Ruiz
-2978690
-Ingenieria en Desarrollo de Software
-6to Semestre
+* Leonardo David Arias Ruiz
+* 2978690
+* Ingenieria en Desarrollo de Software
+* 6to Semestre
 
 ## Tarea 1
 1. Comprueba el estado de un repositorio local.
