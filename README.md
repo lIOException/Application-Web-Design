@@ -1,6 +1,6 @@
 # Application-Web-Design
 ***
-##Actividad 1
+###Actividad 1
 * Leonardo David Arias Ruiz
 * 2978690
 * Ingenieria en Desarrollo de Software
