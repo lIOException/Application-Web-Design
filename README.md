@@ -1,10 +1,6 @@
 # Application-Web-Design
 ***
 ###Actividad 1
-* Leonardo David Arias Ruiz
-* 2978690
-* Ingenieria en Desarrollo de Software
-* 6to Semestre
 
 ## Tarea 1
 1. Comprueba el estado de un repositorio local.
@@ -14,7 +10,3 @@
 5. Crea, navega y elimina ramas.
 6. Revertir un repositorio a una confirmación específica.
 
-
-git add .
-git commit -m "Eicion de readme"
-git push -u origin main
