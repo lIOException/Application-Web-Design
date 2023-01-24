@@ -9,4 +9,3 @@
 4. Sube tus cambios al repositorio remoto.
 5. Crea, navega y elimina ramas.
 6. Revertir un repositorio a una confirmación específica.
-
